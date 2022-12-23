@@ -6,7 +6,13 @@
         "download" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000001_woodtexture.zip",
         "pbr" : "Yes",
         "res" : "2048"
+    },
+    {
+        "id": 2,
+        "title": "fabric texture[000002]",
+        "url" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen_preview.JPG",
+        "download" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen.zip",
+        "pbr" : "Yes",
+        "res" : "2048"
     }
 ]
-
-
