@@ -14,29 +14,5 @@
         "download" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen.zip",
         "pbr" : "Yes",
         "res" : "2048"
-    },
-    {
-        "id": 3,
-        "title": "test",
-        "url" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen_preview.JPG",
-        "download" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen.zip",
-        "pbr" : "Yes",
-        "res" : "2048"
-    },
-    {
-        "id": 4,
-        "title": "test",
-        "url" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen_preview.JPG",
-        "download" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen.zip",
-        "pbr" : "Yes",
-        "res" : "2048"
-    },
-    {
-        "id": 5,
-        "title": "test",
-        "url" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen_preview.JPG",
-        "download" : "https://storageapi.fleek.one/f3e11ea2-1567-46e4-a8eb-83ae244763e2-bucket/000002_linen.zip",
-        "pbr" : "Yes",
-        "res" : "2048"
     }
 ]
